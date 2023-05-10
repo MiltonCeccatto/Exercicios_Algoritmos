@@ -1,0 +1,28 @@
+Aluno: Data: 04/03/2021
+Obs:
+- O arquivo resultante deste trabalho deverá ser salvo com o seguinte nome:
+Trabalho_1_Nome_do_Aluno.
+- Este trabalho representa 50% da nota da etapa, tendo peso 5;
+- Encerramento do trabalho as 12:00, deverá ser entregue somente o arquivo .cpp via tarefa no
+classroom.
+- O trabalho é individual e com consulta ao material.
+- Dúvidas com relação à interpretação, consulte o professor durante a leitura do trabalho.
+- A correção será mediante verificação no código fonte se os requisitos foram atendidos e a
+funcionalidade através da execução dos programas criados.
+- Não é permitido o uso de variáveis globais na resolução dos exercícios.
+
+1 – Crie um programa que apresente um menu com as opções apresentadas e que realize as ações
+descritas:
+0 – Sair
+1 – Gerar vetor (gera uma vetor de 20 posições de números inteiros menores que 100, sem números
+repetidos)
+2 – Mostrar o vetor (exibe na tela os elementos do vetor separando cada elemento com uma tabulação
+e exibindo no máximo 5 elementos por linha)
+3 – Localiza Maior (encontra e mostra o maior elemento do vetor juntamente com sua posição (índice)
+no vetor).
+4 – Exibir Ordenado (exibe o vetor ordenado em forma crescente e decrescente)
+OBS:
+- As ações 2, 3 e 4 só poderão ser acionadas se a opção 1 já foi executada.
+- Ao escolher opção inválida no menu deverá exibir mensagem com tal informação.
+- Utilize funções e passagem de parâmetro para resolver este exercício, não sendo permitido o uso de
+variáveis globais.
